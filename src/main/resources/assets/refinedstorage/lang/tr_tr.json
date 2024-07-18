@@ -3,11 +3,11 @@
   "itemGroup.refinedstorage.covers": "Refined Storage Kapakları",
 
   "key.refinedstorage.focusSearchBar": "Arama Çubuğuna Odaklan",
-  "key.refinedstorage.clearTerminalCraftingMatrix": "Terminal Üretim Matriksini Temizle",
-  "key.refinedstorage.openKablosuzTerminal": "Kablosuz Terminali Aç",
-  "key.refinedstorage.openKablosuzAkışkanTerminal": "Kablosuz Akışkan Terminalinı Aç",
-  "key.refinedstorage.openPortableTerminal": "Taşınabilir Terminali Aç",
-  "key.refinedstorage.openKablosuzCraftingMonitor": "Kablosuz Üretim Monitörünü Aç",
+  "key.refinedstorage.clearGridCraftingMatrix": "Terminal Üretim Matriksini Temizle",
+  "key.refinedstorage.openWirelessGrid": "Kablosuz Terminali Aç",
+  "key.refinedstorage.openWirelessFluidGrid": "Kablosuz Akışkan Terminalinı Aç",
+  "key.refinedstorage.openPortableGrid": "Taşınabilir Terminali Aç",
+  "key.refinedstorage.openWirelessCraftingMonitor": "Kablosuz Üretim Monitörünü Aç",
 
   "gui.refinedstorage.controller": "Denetleyici",
   "gui.refinedstorage.creative_controller": "Yaratıcı Mod Denetleyici",
